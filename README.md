@@ -18,7 +18,7 @@ Solution Integrator Experienced - Certified by Ericsson
 RSpec Tutorial
 [x] Home
 [x] Introduction
-[ ] Basic Syntax
+[x] Basic Syntax
 [ ] Writing Specs
 [ ] Matchers
 [ ] Test Doubles
