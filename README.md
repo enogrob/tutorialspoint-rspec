@@ -20,7 +20,7 @@ RSpec Tutorial
 [x] Introduction
 [x] Basic Syntax
 [x] Writing Specs
-[ ] Matchers
+[x] Matchers
 [ ] Test Doubles
 [ ] Stubs
 [ ] Hooks
