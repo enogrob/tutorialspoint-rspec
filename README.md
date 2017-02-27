@@ -21,7 +21,7 @@ RSpec Tutorial
 [x] Basic Syntax
 [x] Writing Specs
 [x] Matchers
-[ ] Test Doubles
+[x] Test Doubles
 [ ] Stubs
 [ ] Hooks
 [ ] Tags
